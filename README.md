@@ -1,5 +1,9 @@
 # The Hacking Class
 
+Enoncé
+```
+Tu vas encore faire un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
+```
 
 ## Gems and Libraries
 - `ActiveRecord` library to manipulate an sqlite3 database, it comes along with Rails.
